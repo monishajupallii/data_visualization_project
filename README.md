@@ -1,2 +1,2 @@
-# Data_visualization__
-This python scripts makes concepts regarding the basics of opencv and image visualization and getting convert to gray scale .how to resize image ,reshape images then visualize it in jupyter notebook 
+# data_visualization_project
+This Python script provides an introduction to the fundamental concepts of OpenCV and image visualization. It demonstrates how to convert an image to grayscale, resize it, and reshape it. Additionally, the script includes examples of visualizing these image transformations within a Jupyter Notebook, offering a comprehensive guide to handling and manipulating images using OpenCV.
